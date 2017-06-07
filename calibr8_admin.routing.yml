@@ -1,0 +1,7 @@
+system.admin_config_calibr8:
+  path: '/admin/config/calibr8'
+  defaults:
+    _controller: '\Drupal\system\Controller\SystemController::systemAdminMenuBlockPage'
+    _title: 'Calibr8'
+  requirements:
+    _permission: 'access administration pages'

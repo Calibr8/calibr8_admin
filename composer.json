@@ -1,0 +1,15 @@
+{
+    "name": "calibrate/calibr8_admin",
+    "description": "Admin improvements for Calibr8",
+    "type": "drupal-custom",
+    "keywords": ["Drupal 8","UX","Calibr8"],
+    "homepage": "https://github.com/stevenvdhout/calibr8_admin",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Wouter Dierick",
+            "email": "wouter.dierick@calibrate.be",
+            "homepage": "http://www.calibrate.be"
+        }
+    ]
+}
