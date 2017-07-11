@@ -3,3 +3,4 @@ description: Admin extensions
 package: Calibr8
 type: module
 core: 8.x
+version: '8.x-1.0'
