@@ -1,0 +1,15 @@
+<?php
+
+/*
+ * Implements hook_form_alter().
+ */
+function calibr8_admin_form_alter(&$form, &$form_state, $form_id) {
+
+  if (substr($form_id, 0, 5) == 'node_') {
+
+    // move the published checkbox to the sidebar
+    $form['status']['#group'] = 'meta';
+
+  }
+
+}
