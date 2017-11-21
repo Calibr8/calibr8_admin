@@ -10,6 +10,10 @@
             "name": "Wouter Dierick",
             "email": "wouter.dierick@calibrate.be",
             "homepage": "http://www.calibrate.be"
+        },
+        {
+            "name": "Steven Van den Hout",
+            "email": "steven.vandenhout@calibrate.be"
         }
     ]
 }
